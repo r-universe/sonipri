@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "EcoCleanR"]
 	path = EcoCleanR
-	url = https://github.com/cran/EcoCleanR
+	url = https://github.com/sonipri/ecocleanr
